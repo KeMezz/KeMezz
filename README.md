@@ -6,6 +6,9 @@ I'm hyeongjin, Front-end developer from 🇰🇷Gwangju, South Korea.
 
 ### Skill stacks
 
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KeMezz&theme=blue-green&layout=compact)
+
+
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/-React-222222?style=for-the-badge&logo=react)
@@ -41,7 +44,3 @@ I'm hyeongjin, Front-end developer from 🇰🇷Gwangju, South Korea.
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
 ![XCode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)
-
-### Github Stats
-
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KeMezz&theme=blue-green)
