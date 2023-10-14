@@ -2,7 +2,7 @@
 
 Welcome to my page!
 <br />
-I'm Hyeongjin, Frontend developer from 🇰🇷Gwangju, South Korea.
+I'm hyeongjin, full-stack developer from 🇰🇷Gwangju, South Korea. And currently live in 🇯🇵Himeji, Japan.
 
 ### Skill stacks
 
