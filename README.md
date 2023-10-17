@@ -1,8 +1,8 @@
-## 반가워요! 👋
+## 반가워요! こんにちは！ 👋
 
 Welcome to my page!
 <br />
-I'm hyeongjin, full-stack developer from 🇰🇷Gwangju, South Korea. And currently live in 🇯🇵Himeji, Japan.
+I'm hyeongjin, full-stack developer from 🇰🇷Gwangju, currently living in 🇯🇵Himeji.
 
 ### Skill stacks
 
