@@ -2,7 +2,7 @@
 
 Welcome to my page!
 <br />
-I'm hyeongjin, full-stack developer from 🇰🇷Gwangju, currently living in 🇯🇵Himeji.
+I'm hyeongjin, full-stack developer from 🇰🇷South Korea, currently living in 🇯🇵Japan.
 
 ### Skill stacks
 
